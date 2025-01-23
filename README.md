@@ -9,7 +9,7 @@ Having recently graduated, I am now seeking a role in which I can build my caree
 
 ## Projects 
 
-### [Full Stack Web Application - IT Helpdesk Ticketing System]
+### [Full Stack Web Application - IT Helpdesk Ticketing System](assets/Full_Stack_Helpdesk/Helpdesk_Ticket_System.zip)
 
 This project is an IT Helpdesk System, one that employs a blend of modern web technologies to streamline support operations. The system incorporates distinct front-end portals for general staff and helpdesk staff, created using HTML, CSS, and JavaScript, ensuring a user-friendly and responsive interface.
 General staff can log in to their portal to create and submit new help requests effortlessly. Simultaneously, helpdesk staff access their dedicated portal to view, manage, and update the status of these requests, marking them as complete when resolved.
@@ -60,7 +60,8 @@ Skills Demonstrated:
 
 The project reinforced my ability to design and implement complex systems using OOP principles and highlighted my problem-solving skills in building a user-centric, reliable application. This experience is highly relevant to cybersecurity roles, as it demonstrates attention to detail, data management, and secure coding practices
 
-### [Phishing Attacks – Examining Their Prevalence and Implications for Organisations]
+### [Phishing Attacks – Examining Their Prevalence and Implications for Organisations](assets/Phishing_Attacks_Report/Cybersecurity Threats - Report.docx)
+
 
 This report provides a detailed exploration of phishing attacks, one of the most pervasive threats in cybersecurity. It evaluates the evolution of phishing tactics, including Business Email Compromise (BEC), spear-phishing, and whaling, while emphasizing their impact on confidentiality, integrity, and availability. The report highlights the critical need for layered defence mechanisms, such as zero-trust architectures and anti-spoofing technologies, alongside the role of training and incident response planning. It examines both organizational vulnerabilities and societal implications, advocating for a balanced approach that leverages technology and education to mitigate human error. The report demonstrates strong research, analytical, and communication skills, making complex cybersecurity concepts accessible to a diverse audience.
 
