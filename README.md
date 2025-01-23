@@ -19,19 +19,17 @@ On the backend, PHP facilitates seamless communication with a MySQL database, en
 
 Skills Demonstrated:
 
-Technical Skills:
-
-* Frontend Development: Expertise in HTML for structuring content, CSS for styling, and JavaScript for interactivity.
-* Backend Development: Proficiency in PHP for server-side scripting and dynamic interactions.
-* Database Management: Experience with MySQL for creating, managing, and querying relational databases.
-* Full-Stack Integration: Combining frontend and backend technologies to create a cohesive application.
+- Frontend Development: Expertise in HTML for structuring content, CSS for styling, and JavaScript for interactivity.
+- Backend Development: Proficiency in PHP for server-side scripting and dynamic interactions.
+- Database Management: Experience with MySQL for creating, managing, and querying relational databases.
+- Full-Stack Integration: Combining frontend and backend technologies to create a cohesive application.
 
 Non-Technical Skills:
 
-* Problem-Solving: Designing a system to address real-world challenges faced by an educational institution.
-* User-Centric Design: Creating intuitive interfaces tailored to the needs of different user roles.
-* Project Planning: Organizing components to deliver a fully functional and reliable solution.
-* Collaboration: Incorporating feedback to ensure the system meets the requirements of both staff and helpdesk teams.
+- Problem-Solving: Designing a system to address real-world challenges faced by an educational institution.
+- User-Centric Design: Creating intuitive interfaces tailored to the needs of different user roles.
+- Project Planning: Organizing components to deliver a fully functional and reliable solution.
+- Collaboration: Incorporating feedback to ensure the system meets the requirements of both staff and helpdesk teams.
 
 This project showcases the application of full-stack web development to address organizational needs, combining technical acumen with practical problem-solving.
 
