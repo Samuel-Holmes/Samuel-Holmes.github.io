@@ -1,3 +1,4 @@
+
 ## <ins>About Me</ins> 
 
 For my undergraduate degree I studied economics at Sheffield Hallam University, upon completing my course I made the decision that I wished to work within the technology industry. Upon consulting job requirements I realised many of the skills I had learned during my undergraduate degree would be highly transferable, however, I needed to bolster my technical skillset. To achieve this I have undertaken a postgraduate degree within the field of computer science at the University of Sunderland. 
