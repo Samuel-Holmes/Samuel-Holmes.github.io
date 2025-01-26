@@ -30,7 +30,7 @@ Non-Technical Skills:
 
 This project showcases the application of full-stack web development to address organizational needs, combining technical acumen with practical problem-solving.
 
-### [OOP Library Management System]
+### [OOP Library Management System](assets/Library_Management_System)
 
 Developed a fully functional Library Management System using Python, showcasing object-oriented programming (OOP) principles to design and implement a modular, maintainable, and scalable application. This project demonstrates proficiency in OOP concepts, error handling, and user interaction through a command-line interface.
 
